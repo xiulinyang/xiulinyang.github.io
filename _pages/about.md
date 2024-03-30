@@ -22,8 +22,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-  **03-2024** One paper *Are AMR Parsers Fooled by Relative Clauses?* was accepted by DMR Workshop. 
+-  **03-2024** Our paper *A Corpus of German Abstract Meaning Representation (DeAMR)* was accepted by LREC!
 
 # 📝 Publications 
 
