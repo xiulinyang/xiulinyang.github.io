@@ -16,10 +16,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+<p>Hi! My name is Xiulin Yang and I'm currently a first-year PhD student learning Computational Linguistics at Georgetown University, advised by <a href = 'https://scholar.google.com/citations?hl=en&user=3cozMf4AAAAJ.' target ='_top'> Professor Nathan Schneider </a>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Before that, I have been lucky to work with <a href = 'https://www.jyfindlay.com/' target ='_top'> Dr. Jamie Findlay </a> and <a href = 'https://www.mod-langs.ox.ac.uk/people/hanne-eckhoff' target ='_top'> Professor Hanne Eckhoff </a> at Oxford,<a href='https://scholar.google.com/citations?user=yni3K9wAAAAJ&hl=en' target='_top'> Professor Alexander Koller </a> at Saarland and <a href = 'https://www.rug.nl/staff/johan.bos/cv?lang=en' target = '_top'> Professor Johan Bos</a> at Groningen.
 
+<p>My primary interest lies in Computational Linguistics, NLP, Sytnax, and its interface with Semantics. I'm excited to explore how syntax informs and constrains semantics. I also wonder how much a machine can grasp meaning through deep learning and how we can improve its performance. I believe linguistics can provide inspirations to build more explainable and robust neural language models in the way that it helps people be aware of the limitation and strengths of both symbolic and neural approaches in linguistics research and AI applications. </p>
+
+<p> More specifically, I'm interested in compositional generalization, neural-symbolic approaches in NLP and cognitive plausibility of neural networks. I'm also excited to explore new areas!</p>
+
+<p> When I'm not in front of the screen, you can find me bouldering/wall-climbing, reading (I'm a big fan of science fictions!), or sleeping (then please me alone 😌). </p>
 
 # 🔥 News
 -  **03-2024** One paper *Are AMR Parsers Fooled by Relative Clauses?* was accepted by DMR Workshop. 
