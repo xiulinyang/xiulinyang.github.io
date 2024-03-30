@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xiulin Yang"
-  avatar           : "images/FE7998EB-2D81-474D-91A0-2095298E9D03_1_105_c.jpeg"
+  avatar           : "images/xiulin.png"
   bio              : "Georgetown University"
-  location         : "Washington DC, United States"
+  location         : "Washington DC"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=5bd42g4AAAAJ"
