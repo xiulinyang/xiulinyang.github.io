@@ -39,7 +39,7 @@ Fifth International Workshop on Designing Meaning Representations (2024).
 - **Yang, X.**, Chen, J., van Eerden, A., Samin, A., & Bisazza, A. (2023). Slaapte or sliep? Extending neural- network simulations of English past tense learning to German and Dutch. In Proceedings of the 24th Nordic Conference of Computational Linguistics (NODALIDA 2023).
 - **Yang, X.** (2022, July). The Ambiguous Binding of the Chinese Reflexive ziji: a Unified LFG Analysis [Poster presentation]. In Proceedings of the LFG’22 Conference, Groningen, the Netherlands. 
 - **Yang, X.** (2022, June). Was Europeanization of Chinese Intensified from 1946 to 2003? [Poster Presentation]. LOT Summer School, Groningen, the Netherlands.
-- 
+
 # 🎖 Honors and Awards
 - *08.2023* Merit-Based Graduate School Scholarship, Georgetown University.
 - *07.2022* George Wolf Prize, The University of Oxford.
