@@ -31,14 +31,14 @@ When I'm not in front of the screen, you can find me bouldering/wall-climbing, r
 -  **03-2024** Our paper *A Corpus of German Abstract Meaning Representation (DeAMR)* was accepted by LREC!
 
 # 📝 Publications & Presentations 
-Yang, X. (2024). Measuring Compositionality of Potential Idiomatic Expressions using Suprisal. (In progress).
-Yang, X., Groschwitz, J., Koller, A., & Bos, J. (2024). Compositional DRS Parsing (ARR review).
-Yang, X., & Schneider, N. (2024). Are AMR Parsers Fooled by Relative Clauses? In Proceedings of the
+- **Yang, X.** (2024). Measuring Compositionality of Potential Idiomatic Expressions using Suprisal. (In progress).
+- **Yang, X.**, Groschwitz, J., Koller, A., & Bos, J. (2024). Compositional DRS Parsing (ARR review).
+- **Yang, X.**, & Schneider, N. (2024). Are AMR Parsers Fooled by Relative Clauses? In Proceedings of the
 Fifth International Workshop on Designing Meaning Representations (2024).
-Otto, C., Groschwitz, J., Koller, A., Yang, X., & Donatelli, L. (2024). A corpus of German Abstract Meaning Representation (DeAMR). In Proceedings of the Thirteenth Language Resources and Evaluation Conference (2024).
-Yang, X., Chen, J., van Eerden, A., Samin, A., & Bisazza, A. (2023). Slaapte or sliep? Extending neural- network simulations of English past tense learning to German and Dutch. In Proceedings of the 24th Nordic Conference of Computational Linguistics (NODALIDA 2023).
-Yang, X. (2022, July). The Ambiguous Binding of the Chinese Reflexive ziji: a Unified LFG Analysis [Poster presentation]. In Proceedings of the LFG’22 Conference, Groningen, the Netherlands. [pdf]
-Yang, X. (2022, June). Was Europeanization of Chinese Intensified from 1946 to 2003? [Poster Presentation]. LOT Summer School, Groningen, the Netherlands. [pdf]
+- Otto, C., Groschwitz, J., Koller, A., **Yang, X.**, & Donatelli, L. (2024). A corpus of German Abstract Meaning Representation (DeAMR). In Proceedings of the Thirteenth Language Resources and Evaluation Conference (2024).
+- **Yang, X.**, Chen, J., van Eerden, A., Samin, A., & Bisazza, A. (2023). Slaapte or sliep? Extending neural- network simulations of English past tense learning to German and Dutch. In Proceedings of the 24th Nordic Conference of Computational Linguistics (NODALIDA 2023).
+- **Yang, X.** (2022, July). The Ambiguous Binding of the Chinese Reflexive ziji: a Unified LFG Analysis [Poster presentation]. In Proceedings of the LFG’22 Conference, Groningen, the Netherlands. [pdf]
+- **Yang, X.** (2022, June). Was Europeanization of Chinese Intensified from 1946 to 2003? [Poster Presentation]. LOT Summer School, Groningen, the Netherlands. [pdf]
 # 🎖 Honors and Awards
 - *08.2023* Merit-Based Graduate School Scholarship, Georgetown University.
 - *07.2022* George Wolf Prize, The University of Oxford.
