@@ -37,12 +37,18 @@ When I'm not in front of the screen, you can find me bouldering/wall-climbing, r
 Fifth International Workshop on Designing Meaning Representations (2024).
 - Otto, C., Groschwitz, J., Koller, A., **Yang, X.**, & Donatelli, L. (2024). A corpus of German Abstract Meaning Representation (DeAMR). In Proceedings of the Thirteenth Language Resources and Evaluation Conference (2024).
 - **Yang, X.**, Chen, J., van Eerden, A., Samin, A., & Bisazza, A. (2023). Slaapte or sliep? Extending neural- network simulations of English past tense learning to German and Dutch. In Proceedings of the 24th Nordic Conference of Computational Linguistics (NODALIDA 2023).
-- **Yang, X.** (2022, July). The Ambiguous Binding of the Chinese Reflexive ziji: a Unified LFG Analysis [Poster presentation]. In Proceedings of the LFG’22 Conference, Groningen, the Netherlands. [pdf]
-- **Yang, X.** (2022, June). Was Europeanization of Chinese Intensified from 1946 to 2003? [Poster Presentation]. LOT Summer School, Groningen, the Netherlands. [pdf]
+- **Yang, X.** (2022, July). The Ambiguous Binding of the Chinese Reflexive ziji: a Unified LFG Analysis [Poster presentation]. In Proceedings of the LFG’22 Conference, Groningen, the Netherlands. 
+- **Yang, X.** (2022, June). Was Europeanization of Chinese Intensified from 1946 to 2003? [Poster Presentation]. LOT Summer School, Groningen, the Netherlands.
+- 
 # 🎖 Honors and Awards
 - *08.2023* Merit-Based Graduate School Scholarship, Georgetown University.
 - *07.2022* George Wolf Prize, The University of Oxford.
 - *04.2021* Erasmus Mundus Language and Communication Program Scholarship, University of Groningen & Saarland University.
+- **07.2020** Outstanding Graduate of Shandong University.
+- **2018-2019** Scholarship for Outstanding Students of Shandong University (2017,2018,2019).
+- **2018-2019** Merit Student of School of Foreign Languages Shandong University (2017,2018,2019).
+- **09.2018** Shandong Radio & TV Station Scholarship, Shandong University.
+- **09.2018** Overseas Study Scholarship, Shandong University.
 
 # 📖 Educations
 - *08.2023 - present* Georgetown University, PhD in Computational Linguistics. 
