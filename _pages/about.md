@@ -44,14 +44,18 @@ Fifth International Workshop on Designing Meaning Representations (2024).
 - *08.2023* Merit-Based Graduate School Scholarship, Georgetown University.
 - *07.2022* George Wolf Prize, The University of Oxford.
 - *04.2021* Erasmus Mundus Language and Communication Program Scholarship, University of Groningen & Saarland University.
-- **07.2020** Outstanding Graduate of Shandong University.
-- **2018-2019** Scholarship for Outstanding Students of Shandong University (2017,2018,2019).
-- **2018-2019** Merit Student of School of Foreign Languages Shandong University (2017,2018,2019).
-- **09.2018** Shandong Radio & TV Station Scholarship, Shandong University.
-- **09.2018** Overseas Study Scholarship, Shandong University.
+- *07.2020* Outstanding Graduate of Shandong University.
+- *2018-2019* Scholarship for Outstanding Students of Shandong University (2017,2018,2019).
+- *2018-2019* Merit Student of School of Foreign Languages Shandong University (2017,2018,2019).
+- *09.2018* Shandong Radio & TV Station Scholarship, Shandong University.
+- *09.2018* Overseas Study Scholarship, Shandong University.
 
 # 📖 Educations
 - *08.2023 - present* Georgetown University, PhD in Computational Linguistics. 
 - *09.2021 - 11.2023* The University of Groningen and Saarland University, Joint Master in Language and Communication Technologies.
 - *10.2020 - 07.2021* University of Oxford, Master in Linguistics, Philology and Phonetics.
 - *09.2016 - 07.2020* Shandong University, BA in English.
+
+# CV
+You can find my CV <a href = 'https://drive.google.com/file/d/1JOHEWPn2azIEZJ9pMxaCmpSaV76wkEBH/view?usp=sharing' target = '_top'> here</a>.
+
