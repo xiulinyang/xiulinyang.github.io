@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Xiulin Yang and I'm currently a first-year PhD student learning Computational Linguistics at Georgetown University, advised by <a href = 'https://scholar.google.com/citations?hl=en&user=3cozMf4AAAAJ.' target ='_top'> Professor Nathan Schneider.
+Hi! My name is Xiulin Yang and I'm currently a second-year PhD student doing Computational Linguistics at Georgetown University, advised by <a href = 'https://scholar.google.com/citations?hl=en&user=3cozMf4AAAAJ.' target ='_top'> Professor Nathan Schneider.
 
 Before that, I have been lucky to work with <a href = 'https://www.jyfindlay.com/' target ='_top'> Dr. Jamie Findlay </a> and <a href = 'https://www.mod-langs.ox.ac.uk/people/hanne-eckhoff' target ='_top'> Professor Hanne Eckhoff </a> at Oxford,<a href='https://scholar.google.com/citations?user=yni3K9wAAAAJ&hl=en' target='_top'> Professor Alexander Koller </a> at Saarland and <a href = 'https://www.rug.nl/staff/johan.bos/cv?lang=en' target = '_top'> Professor Johan Bos</a> at Groningen.
 
@@ -24,10 +24,15 @@ My primary interest lies in Computational Linguistics, NLP, Sytnax, and its inte
 
 More specifically, I'm interested in compositional generalization, neural-symbolic approaches in NLP and cognitive plausibility of neural networks. I'm also excited to explore new areas!
 
-When I'm not in front of the screen, you can find me bouldering/wall-climbing, reading (I'm a big fan of science fictions!), or sleeping (then please me alone 😌). 
+When I'm not in front of the screen, you can find me bouldering/wall-climbing, reading (I'm a big fan of science fictions!), or swimming. 
 
 # 🔥 News
--  **03-2024** One paper *Are AMR Parsers Fooled by Relative Clauses?* was accepted by DMR Workshop. 
+- **07-2024** I gave a talk about LLMs and CL at Shandong University. If you are interested, feel free to reach out for the slides. :)	
+
+- **04-2024** I started my intern at KunLun Tech! Looking forward to learning more about LLMs!
+
+-  **03-2024** One paper *Are AMR Parsers Fooled by Relative Clauses?* was accepted by DMR Workshop！
+
 -  **03-2024** Our paper *A Corpus of German Abstract Meaning Representation (DeAMR)* was accepted by LREC!
 
 # 📝 Publications & Presentations 
@@ -57,5 +62,5 @@ Fifth International Workshop on Designing Meaning Representations (2024).
 - *09.2016 - 07.2020* Shandong University, BA in English.
 
 # CV
-You can find my CV <a href = 'https://drive.google.com/file/d/1JOHEWPn2azIEZJ9pMxaCmpSaV76wkEBH/view?usp=sharing' target = '_top'> here</a>.
+You can find my CV <a href = 'https://drive.google.com/file/d/1i_U5ZDpmrHHzDUS2NRmkNpxSltiR2eef/view?usp=drive_link' target = '_top'> here</a>.
 
