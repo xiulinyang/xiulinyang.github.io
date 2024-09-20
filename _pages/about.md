@@ -33,13 +33,10 @@ When I'm not in front of the screen, you can find me bouldering/wall-climbing, r
 
 - **04-2024** I started my intern at KunLun Tech! Looking forward to learning more about LLMs!
 
--  **03-2024** One paper *Are AMR Parsers Fooled by Relative Clauses?* was accepted by DMR Workshop！
-
--  **03-2024** Our paper *A Corpus of German Abstract Meaning Representation (DeAMR)* was accepted by LREC!
 
 # 📝 Publications & Presentations 
 - **Yang, X.** (2024). Measuring Compositionality of Potential Idiomatic Expressions using Suprisal. (In progress).
-- **Yang, X.**, Groschwitz, J., Koller, A., & Bos, J. (2024). Compositional DRS Parsing. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing.
+- **Yang, X.**, Groschwitz, J., Koller, A., & Bos, J. (2024). Scope-enhanced Compositioinal Semantic Parsing for DRT. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing.
 - **Yang, X.**, & Schneider, N. (2024). Are AMR Parsers Fooled by Relative Clauses? In Proceedings of the
 Fifth International Workshop on Designing Meaning Representations (2024).
 - Otto, C., Groschwitz, J., Koller, A., **Yang, X.**, & Donatelli, L. (2024). A corpus of German Abstract Meaning Representation (DeAMR). In Proceedings of the Thirteenth Language Resources and Evaluation Conference (2024).
