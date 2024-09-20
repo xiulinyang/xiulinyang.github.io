@@ -27,6 +27,8 @@ More specifically, I'm interested in compositional generalization, neural-symbol
 When I'm not in front of the screen, you can find me bouldering/wall-climbing, reading (I'm a big fan of science fictions!), or swimming. 
 
 # 🔥 News
+- **09-2024** My paper *Scope-enhanced Compositioinal Semantic Parsing for* will be presented at EMNLP 2024!
+
 - **07-2024** I gave a talk about LLMs and CL at Shandong University. If you are interested, feel free to reach out for the slides. :)	
 
 - **04-2024** I started my intern at KunLun Tech! Looking forward to learning more about LLMs!
@@ -37,7 +39,7 @@ When I'm not in front of the screen, you can find me bouldering/wall-climbing, r
 
 # 📝 Publications & Presentations 
 - **Yang, X.** (2024). Measuring Compositionality of Potential Idiomatic Expressions using Suprisal. (In progress).
-- **Yang, X.**, Groschwitz, J., Koller, A., & Bos, J. (2024). Compositional DRS Parsing (ARR review).
+- **Yang, X.**, Groschwitz, J., Koller, A., & Bos, J. (2024). Compositional DRS Parsing. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing.
 - **Yang, X.**, & Schneider, N. (2024). Are AMR Parsers Fooled by Relative Clauses? In Proceedings of the
 Fifth International Workshop on Designing Meaning Representations (2024).
 - Otto, C., Groschwitz, J., Koller, A., **Yang, X.**, & Donatelli, L. (2024). A corpus of German Abstract Meaning Representation (DeAMR). In Proceedings of the Thirteenth Language Resources and Evaluation Conference (2024).
