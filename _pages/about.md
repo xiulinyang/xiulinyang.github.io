@@ -27,7 +27,7 @@ More specifically, I'm interested in compositional generalization, neural-symbol
 When I'm not in front of the screen, you can find me bouldering/wall-climbing, reading (I'm a big fan of science fictions!), or swimming. 
 
 # 🔥 News
-- **09-2024** My paper *Scope-enhanced Compositioinal Semantic Parsing for* will be presented at EMNLP 2024!
+- **09-2024** My paper *Scope-enhanced Compositioinal Semantic Parsing for DRT* will be presented at EMNLP 2024!
 
 - **07-2024** I gave a talk about LLMs and CL at Shandong University. If you are interested, feel free to reach out for the slides. :)	
 
