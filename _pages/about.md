@@ -36,6 +36,7 @@ When I'm not in front of the screen, you can find me bouldering/wall-climbing, r
 
 # 📝 Publications & Presentations 
 - **Yang, X.** (2024). Measuring Compositionality of Potential Idiomatic Expressions using Suprisal. (In progress).
+- **Yang, X.** (2024). Language Models at the Syntax-Semantics Interface - A Case Study of the Chinese Reflexive *ziji*. (Under review)
 - **Yang, X.**, Groschwitz, J., Koller, A., & Bos, J. (2024). Scope-enhanced Compositioinal Semantic Parsing for DRT. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing.
 - **Yang, X.**, & Schneider, N. (2024). Are AMR Parsers Fooled by Relative Clauses? In Proceedings of the
 Fifth International Workshop on Designing Meaning Representations (2024).
