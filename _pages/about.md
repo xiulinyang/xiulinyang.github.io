@@ -18,7 +18,7 @@ redirect_from:
 
 Hi! My name is Xiulin Yang and I'm currently a second-year PhD student doing Computational Linguistics at Georgetown University, advised by <a href = 'https://scholar.google.com/citations?hl=en&user=3cozMf4AAAAJ.' target ='_top'> Professor Nathan Schneider.
 
-Before that, I have been lucky to work with <a href = 'https://www.jyfindlay.com/' target ='_top'> Dr. Jamie Findlay </a> and <a href = 'https://www.mod-langs.ox.ac.uk/people/hanne-eckhoff' target ='_top'> Professor Hanne Eckhoff </a> at Oxford,<a href='https://scholar.google.com/citations?user=yni3K9wAAAAJ&hl=en' target='_top'> Professor Alexander Koller </a> at Saarland and <a href = 'https://www.rug.nl/staff/johan.bos/cv?lang=en' target = '_top'> Professor Johan Bos</a> at Groningen.
+Before that, I have been lucky to work with <a href = 'https://www.jyfindlay.com/' target ='_top'> Professor Jamie Findlay </a> and <a href = 'https://www.mod-langs.ox.ac.uk/people/hanne-eckhoff' target ='_top'> Professor Hanne Eckhoff </a> at Oxford,<a href='https://scholar.google.com/citations?user=yni3K9wAAAAJ&hl=en' target='_top'> Professor Alexander Koller </a> at Saarland and <a href = 'https://www.rug.nl/staff/johan.bos/cv?lang=en' target = '_top'> Professor Johan Bos</a> at Groningen.
 
 My primary interest lies in Computational Linguistics, NLP, Sytnax, and its interface with Semantics. I'm excited to explore how to develop linguistically-motivated, transparent, and (compositionally) generalizable NLP tools and how to objectively evaluate the performance and behavior of existing language models on top of current benchmark datasets. I believe linguistics can provide inspirations to build more explainable and robust neural language models in the way that it helps people be aware of the limitation and strengths of both symbolic and neural approaches in linguistics research and AI applications.
 
@@ -27,6 +27,8 @@ More specifically, I'm interested in compositional generalization, neural-symbol
 When I'm not in front of the screen, you can find me bouldering/wall-climbing, reading (I'm a big fan of science fictions!), or swimming. 
 
 # 🔥 News
+- **12-2024** Our paper *Language Models at the Syntax-Semantics Interface: A Case Study of the Long-Distance Binding of Chinese Reflexive _ziji_* will be presented at COLING 2025!
+
 - **09-2024** Our paper *Scope-enhanced Compositional Semantic Parsing for DRT* will be presented at EMNLP 2024!
 
 - **07-2024** I gave a talk about LLMs and CL at Shandong University. If you are interested, feel free to reach out for the slides. :)	
@@ -35,8 +37,7 @@ When I'm not in front of the screen, you can find me bouldering/wall-climbing, r
 
 
 # 📝 Publications & Presentations 
-- **Yang, X.** (2024). Measuring Compositionality of Potential Idiomatic Expressions using Suprisal. (In progress).
-- **Yang, X.** (2024). Language Models at the Syntax-Semantics Interface - A Case Study of the Chinese Reflexive *ziji*. (Under review)
+- **Yang, X.** (2025). Language Models at the Syntax-Semantics Interface - A Case Study of the Chinese Reflexive *ziji*.  Proceedings of the 31st International Conference on Computational Linguistics (COLING2025).
 - **Yang, X.**, Groschwitz, J., Koller, A., & Bos, J. (2024). Scope-enhanced Compositional Semantic Parsing for DRT. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing.
 - **Yang, X.**, & Schneider, N. (2024). Are AMR Parsers Fooled by Relative Clauses? In Proceedings of the
 Fifth International Workshop on Designing Meaning Representations (2024).
