@@ -16,9 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Xiulin Yang and I'm currently a second-year PhD student in Computational Linguistics at <a href='https://www.georgetown.edu/' target ='_top'>Georgetown University</a>, advised by <a href='https://scholar.google.com/citations?hl=en&user=3cozMf4AAAAJ' target ='_top'>Professor Nathan Schneider</a>. At Georgetown, I also work closely with <a href='https://scholar.google.com/citations?user=5jzLBBwAAAAJ&hl=en' target ='_top'>Professor Ethan Wilcox</a> and <a href='https://scholar.google.com/citations?user=Grvf4zYAAAAJ&hl=en' target ='_top'>Professor Amir Zeldes</a>.  
-
-I'm a member of <a href='http://nert.georgetown.edu/' target ='_top'>NERT</a> and <a href='https://github.com/picol-georgetown/wiki' target ='_top'>PICoL</a>, where I dive into the exciting world of multilingual modeling, linguistic structures, and NLP research. My work is driven by a deep curiosity about the complexities of human language and how we can push the boundaries of language models to better understand them.  
+Hi! My name is Xiulin Yang and I'm currently a second-year PhD student in Computational Linguistics at <a href='https://www.georgetown.edu/' target ='_top'>Georgetown University</a>, advised by <a href='https://scholar.google.com/citations?hl=en&user=3cozMf4AAAAJ' target ='_top'>Professor Nathan Schneider</a>. At Georgetown, I also work closely with <a href='https://scholar.google.com/citations?user=5jzLBBwAAAAJ&hl=en' target ='_top'>Professor Ethan Wilcox</a> and <a href='https://scholar.google.com/citations?user=Grvf4zYAAAAJ&hl=en' target ='_top'>Professor Amir Zeldes</a>. I'm a member of <a href='http://nert.georgetown.edu/' target ='_top'>NERT</a> and <a href='https://github.com/picol-georgetown/wiki' target ='_top'>PICoL</a>.
 
 Before that, I have been lucky to work with <a href = 'https://www.jyfindlay.com/' target ='_top'> Professor Jamie Findlay </a> and <a href = 'https://www.mod-langs.ox.ac.uk/people/hanne-eckhoff' target ='_top'> Professor Hanne Eckhoff </a> at Oxford,<a href='https://scholar.google.com/citations?user=yni3K9wAAAAJ&hl=en' target='_top'> Professor Alexander Koller </a> at Saarland and <a href = 'https://www.rug.nl/staff/johan.bos/cv?lang=en' target = '_top'> Professor Johan Bos</a> at Groningen.
 
@@ -29,7 +27,7 @@ More specifically, I'm interested in (compositional) generalization, neural-symb
 When I'm not in front of the screen, you can find me bouldering/wall-climbing, reading (I'm a big fan of science fictions!), or swimming. 
 
 # 🔥 News
-- **12-2024** Our paper *Language Models at the Syntax-Semantics Interface: A Case Study of the Long-Distance Binding of Chinese Reflexive _ziji_* will be presented at COLING 2025!
+- **12-2024** Our paper *Language Models at the Syntax-Semantics Interface: A Case Study of the Long-Distance Binding of Chinese Reflexive ziji* will be presented at COLING 2025!
 
 - **09-2024** Our paper *Scope-enhanced Compositional Semantic Parsing for DRT* will be presented at EMNLP 2024!
 
