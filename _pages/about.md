@@ -27,6 +27,8 @@ More specifically, I'm interested in (compositional) generalization, neural-symb
 When I'm not in front of the screen, you can find me bouldering/wall-climbing, reading (I'm a big fan of science fictions!), or swimming. 
 
 # 🔥 News
+- **05-2025** Our paper *Anything Goes? A Crosslinguistic Study of (Im)possible Language Learning in LMs* was accepted to ACL2025 main conference! Feel free to check it out. :)
+
 - **12-2024** Our paper *Language Models at the Syntax-Semantics Interface: A Case Study of the Long-Distance Binding of Chinese Reflexive ziji* will be presented at COLING 2025!
 
 - **09-2024** Our paper *Scope-enhanced Compositional Semantic Parsing for DRT* will be presented at EMNLP 2024!
@@ -37,7 +39,7 @@ When I'm not in front of the screen, you can find me bouldering/wall-climbing, r
 
 
 # 📝 Publications & Presentations 
-- **Yang, X.** (2025). Language Models at the Syntax-Semantics Interface - A Case Study of the Chinese Reflexive *ziji*.  Proceedings of the 31st International Conference on Computational Linguistics (COLING2025).
+- **Yang, X.**, Aoyama, T., Yao, Y., Wilcox, E. (2025). Anything Goes? A Crosslinguistic Study of (Im)possible Language Learning in LMs. In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025, main long).
 - **Yang, X.**, Groschwitz, J., Koller, A., & Bos, J. (2024). Scope-enhanced Compositional Semantic Parsing for DRT. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing.
 - **Yang, X.**, & Schneider, N. (2024). Are AMR Parsers Fooled by Relative Clauses? In Proceedings of the
 Fifth International Workshop on Designing Meaning Representations (2024).
@@ -47,7 +49,7 @@ Fifth International Workshop on Designing Meaning Representations (2024).
 - **Yang, X.** (2022, June). Was Europeanization of Chinese Intensified from 1946 to 2003? [Poster Presentation]. LOT Summer School, Groningen, the Netherlands.
 
 # 🎖 Honors and Awards
-- *08.2023* Merit-Based Graduate School Scholarship, Georgetown University.
+- *08.2023,2024* Merit-Based Graduate School Scholarship, Georgetown University.
 - *07.2022* George Wolf Prize, The University of Oxford.
 - *04.2021* Erasmus Mundus Language and Communication Program Scholarship, University of Groningen & Saarland University.
 - *07.2020* Outstanding Graduate of Shandong University.
