@@ -65,5 +65,5 @@ Fifth International Workshop on Designing Meaning Representations (2024).
 - *09.2016 - 07.2020* Shandong University, BA in English.
 
 # CV
-You can find my CV <a href = 'https://drive.google.com/file/d/1i_U5ZDpmrHHzDUS2NRmkNpxSltiR2eef/view?usp=sharing' target = '_top'> here</a>.
+You can find my CV <a href = 'https://drive.google.com/file/d/1BzRoihSYTMqXGSVEFVEBYpnac7oAKzil/view?usp=sharing' target = '_top'> here</a>.
 
