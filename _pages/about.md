@@ -20,9 +20,20 @@ Hi! My name is Xiulin Yang and I'm currently a second-year PhD student in Comput
 
 Before that, I have been lucky to work with <a href = 'https://www.jyfindlay.com/' target ='_top'> Professor Jamie Findlay </a> and <a href = 'https://www.mod-langs.ox.ac.uk/people/hanne-eckhoff' target ='_top'> Professor Hanne Eckhoff </a> at Oxford,<a href='https://scholar.google.com/citations?user=yni3K9wAAAAJ&hl=en' target='_top'> Professor Alexander Koller </a> at Saarland and <a href = 'https://www.rug.nl/staff/johan.bos/cv?lang=en' target = '_top'> Professor Johan Bos</a> at Groningen.
 
-My primary interest lies in Computational Linguistics, NLP, Sytnax, and its interface with Semantics. I'm excited to explore how to develop linguistically-motivated, transparent, and (compositionally) generalizable NLP tools and how to objectively evaluate the performance and behavior of existing language models on top of current benchmark datasets. I believe linguistics can provide inspirations to build more explainable and robust neural language models in the way that it helps people be aware of the limitation and strengths of both symbolic and neural approaches in linguistics research and AI applications.
 
-More specifically, I'm interested in (compositional) generalization, neural-symbolic approaches in NLP and cognitive plausibility of neural networks. I'm also excited to explore new areas!
+I’m broadly interested in Computational Linguistics, Cognitive Science, NLP, and linguistic theories. I have worked and am working on the following areas:
+
+- generalization of language models (To what extend can language models generalize from their training data?)
+
+- inductive bias of language models and humans (What's the difference between human mind and language models? How can we make language models more human like by introducing such inductive bias?)
+
+- learnability of natural languages (what makes some languages harder to learn to machines?)
+
+- computational semantics (How to develope accurate and generalizable parsers? How can we incorporate meaning representation to downstream tasks?)
+
+- neuro-symbolic NLP (How to incorporate linguistic information to NLP tasks?)
+
+- targeted evaluation of language models (What do language models know about natural language we speak?)
 
 When I'm not in front of the screen, you can find me bouldering/wall-climbing, reading (I'm a big fan of science fictions!), or swimming. 
 
@@ -39,7 +50,12 @@ When I'm not in front of the screen, you can find me bouldering/wall-climbing, r
 
 
 # 📝 Publications & Presentations 
+- Min, J., **Yang, X.**, & Wein, S. (2025). When Does Meaning Backfire? Investigating the Role of AMRs in NLI. Under review
+- **Yang, X.**, Ju, Z., Bu, L., Liu, Z., & Schneider, N. (2025). UD-English-CHILDES: A Collected Resource of Gold and Silver Universal Dependencies Trees for Child Language Interactions. Proceedings of the Workshop on Universal Dependencies (UDW) at the 2025 Syntax Fest.
 - **Yang, X.**, Aoyama, T., Yao, Y., Wilcox, E. (2025). Anything Goes? A Crosslinguistic Study of (Im)possible Language Learning in LMs. In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025, main long).
+- **Yang, X.** (2025) Language Models at the Syntax-Semantics Interface: A Case Study of the Long-
+Distance Binding of Chinese Reflexive ziji. Proceedings of the 31st International Conference on
+Computational Linguistics.
 - **Yang, X.**, Groschwitz, J., Koller, A., & Bos, J. (2024). Scope-enhanced Compositional Semantic Parsing for DRT. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing.
 - **Yang, X.**, & Schneider, N. (2024). Are AMR Parsers Fooled by Relative Clauses? In Proceedings of the
 Fifth International Workshop on Designing Meaning Representations (2024).
@@ -49,7 +65,7 @@ Fifth International Workshop on Designing Meaning Representations (2024).
 - **Yang, X.** (2022, June). Was Europeanization of Chinese Intensified from 1946 to 2003? [Poster Presentation]. LOT Summer School, Groningen, the Netherlands.
 
 # 🎖 Honors and Awards
-- *08.2023,2024* Merit-Based Graduate School Scholarship, Georgetown University.
+- *08.2023,2024,2025* Merit-Based Graduate School Scholarship, Georgetown University.
 - *07.2022* George Wolf Prize, The University of Oxford.
 - *04.2021* Erasmus Mundus Language and Communication Program Scholarship, University of Groningen & Saarland University.
 - *07.2020* Outstanding Graduate of Shandong University.
