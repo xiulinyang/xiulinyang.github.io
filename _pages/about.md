@@ -38,9 +38,9 @@ I’m broadly interested in Computational Linguistics, Cognitive Science, NLP, a
 When I'm not in front of the screen, you can find me bouldering/wall-climbing, reading (I'm a big fan of science fictions!), or swimming. 
 
 # 🔥 News
-- **05-2025** Gave a talk on Poverty of the Stimulus at TinLab, Boston University! 🗣️
+- **11-2025** Gave a talk on Poverty of the Stimulus at TinLab, Boston University! 🗣️
 
-- **05-2025** Received the Outstanding Reviewer Award for EMNLP 2025! 🥳
+- **11-2025** Received the Outstanding Reviewer Award for EMNLP 2025! 🥳
 
 - **05-2025** Our paper *Anything Goes? A Crosslinguistic Study of (Im)possible Language Learning in LMs* was accepted to ACL2025 main conference! Feel free to check it out. :)
 
