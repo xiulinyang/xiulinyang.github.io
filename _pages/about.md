@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Xiulin Yang and I'm currently a second-year PhD student in Computational Linguistics at <a href='https://www.georgetown.edu/' target ='_top'>Georgetown University</a>, advised by <a href='https://scholar.google.com/citations?hl=en&user=3cozMf4AAAAJ' target ='_top'>Professor Nathan Schneider</a>. At Georgetown, I also work closely with <a href='https://scholar.google.com/citations?user=5jzLBBwAAAAJ&hl=en' target ='_top'>Professor Ethan Wilcox</a> and <a href='https://scholar.google.com/citations?user=Grvf4zYAAAAJ&hl=en' target ='_top'>Professor Amir Zeldes</a>. I'm a member of <a href='http://nert.georgetown.edu/' target ='_top'>NERT</a> and <a href='https://github.com/picol-georgetown/wiki' target ='_top'>PICoL</a>.
+Hi! My name is Xiulin Yang and I'm currently a third-year PhD student in Computational Linguistics at <a href='https://www.georgetown.edu/' target ='_top'>Georgetown University</a>, advised by <a href='https://scholar.google.com/citations?hl=en&user=3cozMf4AAAAJ' target ='_top'>Professor Nathan Schneider</a>. At Georgetown, I also work closely with <a href='https://scholar.google.com/citations?user=5jzLBBwAAAAJ&hl=en' target ='_top'>Professor Ethan Wilcox</a> and <a href='https://scholar.google.com/citations?user=Grvf4zYAAAAJ&hl=en' target ='_top'>Professor Amir Zeldes</a>. I'm a member of <a href='http://nert.georgetown.edu/' target ='_top'>NERT</a> and <a href='https://github.com/picol-georgetown/wiki' target ='_top'>PICoL</a>.
 
 Before that, I have been lucky to work with <a href = 'https://www.jyfindlay.com/' target ='_top'> Professor Jamie Findlay </a> and <a href = 'https://www.mod-langs.ox.ac.uk/people/hanne-eckhoff' target ='_top'> Professor Hanne Eckhoff </a> at Oxford,<a href='https://scholar.google.com/citations?user=yni3K9wAAAAJ&hl=en' target='_top'> Professor Alexander Koller </a> at Saarland and <a href = 'https://www.rug.nl/staff/johan.bos/cv?lang=en' target = '_top'> Professor Johan Bos</a> at Groningen.
 
@@ -29,7 +29,7 @@ I’m broadly interested in Computational Linguistics, Cognitive Science, NLP, a
 
 - learnability of natural languages (what makes some languages harder to learn to machines?)
 
-- computational semantics (How to develope accurate and generalizable parsers? How can we incorporate meaning representation to downstream tasks?)
+- computational semantics (How to develop accurate and generalizable parsers? How can we incorporate meaning representation to downstream tasks?)
 
 - neuro-symbolic NLP (How to incorporate linguistic information to NLP tasks?)
 
@@ -38,15 +38,17 @@ I’m broadly interested in Computational Linguistics, Cognitive Science, NLP, a
 When I'm not in front of the screen, you can find me bouldering/wall-climbing, reading (I'm a big fan of science fictions!), or swimming. 
 
 # 🔥 News
+- **05-2025** Gave a talk on Poverty of the Stimulus at TinLab, Boston University! 🗣️
+
+- **05-2025** Received the Outstanding Reviewer Award for EMNLP 2025! 🥳
+
 - **05-2025** Our paper *Anything Goes? A Crosslinguistic Study of (Im)possible Language Learning in LMs* was accepted to ACL2025 main conference! Feel free to check it out. :)
+
+- **04-2025** I gave a talk on impossible language learning at Learning and Development Lab, Georgetown University! 
 
 - **12-2024** Our paper *Language Models at the Syntax-Semantics Interface: A Case Study of the Long-Distance Binding of Chinese Reflexive ziji* will be presented at COLING 2025!
 
 - **09-2024** Our paper *Scope-enhanced Compositional Semantic Parsing for DRT* will be presented at EMNLP 2024!
-
-- **07-2024** I gave a talk about LLMs and CL at Shandong University. If you are interested, feel free to reach out for the slides. :)	
-
-- **04-2024** I started my intern at KunLun Tech! Looking forward to learning more about LLMs!
 
 
 # 📝 Publications & Presentations 
