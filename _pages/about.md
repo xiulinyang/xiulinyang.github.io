@@ -23,6 +23,8 @@ Before that, I have been lucky to work with <a href = 'https://www.jyfindlay.com
 
 I’m broadly interested in Computational Linguistics, Cognitive Science, NLP, and linguistic theories. I have worked and am working on the following areas:
 
+- tokenization and multilingual NLP (To what extent do tokenization choices account for cross-linguistic performance gaps in multilingual language models, and how can alternative tokenization strategies reduce these gaps?)
+
 - generalization of language models (To what extend can language models generalize from their training data?)
 
 - inductive bias of language models and humans (What's the difference between human mind and language models? How can we make language models more human like by introducing such inductive bias?)
@@ -67,6 +69,7 @@ Fifth International Workshop on Designing Meaning Representations (2024).
 - **Yang, X.** (2022, June). Was Europeanization of Chinese Intensified from 1946 to 2003? [Poster Presentation]. LOT Summer School, Groningen, the Netherlands.
 
 # 🎖 Honors and Awards
+- *2025* Outstanding Reviewer for EMNLP 2025.
 - *08.2023,2024,2025* Merit-Based Graduate School Scholarship, Georgetown University.
 - *07.2022* George Wolf Prize, The University of Oxford.
 - *04.2021* Erasmus Mundus Language and Communication Program Scholarship, University of Groningen & Saarland University.
