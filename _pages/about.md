@@ -40,6 +40,8 @@ I’m broadly interested in Computational Linguistics, Cognitive Science, NLP, a
 When I'm not in front of the screen, you can find me bouldering/wall-climbing, reading (I'm a big fan of science fictions!), or swimming. 
 
 # 🔥 News
+- **04-2026** Our paper on function words as statistical cues is accepted to ACL 2026!
+
 - **11-2025** Gave a talk on Poverty of the Stimulus at TinLab, Boston University! 🗣️
 
 - **11-2025** Received the Outstanding Reviewer Award for EMNLP 2025! 🥳
@@ -50,7 +52,6 @@ When I'm not in front of the screen, you can find me bouldering/wall-climbing, r
 
 - **12-2024** Our paper *Language Models at the Syntax-Semantics Interface: A Case Study of the Long-Distance Binding of Chinese Reflexive ziji* will be presented at COLING 2025!
 
-- **09-2024** Our paper *Scope-enhanced Compositional Semantic Parsing for DRT* will be presented at EMNLP 2024!
 
 
 # 📝 Publications & Presentations 
