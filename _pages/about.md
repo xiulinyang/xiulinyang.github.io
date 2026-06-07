@@ -40,17 +40,19 @@ I’m broadly interested in Computational Linguistics, Cognitive Science, NLP, a
 When I'm not in front of the screen, you can find me bouldering/wall-climbing, reading (I'm a big fan of science fictions!), or swimming. 
 
 # 🔥 News
-- **04-2026** Our paper on function words as statistical cues is accepted to ACL 2026!
+- **06-2026** I'll visit Professor Jennifer Hu's glint lab at JHU this summer!
+
+- **05-2026** Defended my proposal! I'm officially ABD yayyyyyy! 🥳🥳🥳
+
+- **04-2026** Our paper on function words as statistical cues is accepted to ACL 2026 (Oral)!
 
 - **11-2025** Gave a talk on Poverty of the Stimulus at TinLab, Boston University! 🗣️
 
-- **11-2025** Received the Outstanding Reviewer Award for EMNLP 2025! 🥳
+- **11-2025** Received the Outstanding Reviewer Award for EMNLP 2025! 
 
 - **05-2025** Our paper *Anything Goes? A Crosslinguistic Study of (Im)possible Language Learning in LMs* was accepted to ACL2025 main conference! Feel free to check it out. :)
 
 - **04-2025** I gave a talk on impossible language learning at Learning and Development Lab, Georgetown University! 
-
-- **12-2024** Our paper *Language Models at the Syntax-Semantics Interface: A Case Study of the Long-Distance Binding of Chinese Reflexive ziji* will be presented at COLING 2025!
 
 
 
