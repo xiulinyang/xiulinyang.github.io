@@ -27,13 +27,11 @@ I’m broadly interested in Computational Linguistics, Cognitive Science, NLP, a
 
 - generalization of language models (To what extend can language models generalize from their training data?)
 
+- Cognitively inspired NLP, especially data-efficient learning: how can we build LMs that learn language as efficiently as humans?
+
 - inductive bias of language models and humans (What's the difference between human mind and language models? How can we make language models more human like by introducing such inductive bias?)
 
 - learnability of natural languages (what makes some languages harder to learn to machines?)
-
-- computational semantics (How to develop accurate and generalizable parsers? How can we incorporate meaning representation to downstream tasks?)
-
-- neuro-symbolic NLP (How to incorporate linguistic information to NLP tasks?)
 
 - targeted evaluation of language models (What do language models know about natural language we speak?)
 
