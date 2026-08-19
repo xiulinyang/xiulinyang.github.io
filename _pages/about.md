@@ -20,24 +20,19 @@ Hi! My name is Xiulin Yang and I'm currently a third-year PhD student in Computa
 
 Before that, I have been lucky to work with <a href = 'https://www.jyfindlay.com/' target ='_top'> Professor Jamie Findlay </a> and <a href = 'https://www.mod-langs.ox.ac.uk/people/hanne-eckhoff' target ='_top'> Professor Hanne Eckhoff </a> at Oxford,<a href='https://scholar.google.com/citations?user=yni3K9wAAAAJ&hl=en' target='_top'> Professor Alexander Koller </a> at Saarland and <a href = 'https://www.rug.nl/staff/johan.bos/cv?lang=en' target = '_top'> Professor Johan Bos</a> at Groningen.
 
+I am broadly interested in how language is learned and generalized by humans and machines. Specifically, my research explores three related questions:
 
-I’m broadly interested in Computational Linguistics, Cognitive Science, NLP, and linguistic theories. I have worked and am working on the following areas:
+- What makes language learnable, and are some languages harder for machines to learn than others? (<a href="https://aclanthology.org/2026.acl-long.728/" target="_top">Yang et al., 2026</a>; <a href="https://aclanthology.org/2025.acl-long.1264/" target="_top">Yang et al., 2025</a>)
+- Whether and how do language models generalize beyond their training experience? (<a href="https://aclanthology.org/2025.coling-main.257/" target="_top">Yang, 2025</a>; <a href="https://aclanthology.org/2023.nodalida-1.11/" target="_top">Yang et al., 2023</a>)
+- What inductive biases enable humans to learn language efficiently, and can these biases improve language models? (<a href="https://arxiv.org/abs/2602.09992" target="_top">Yang et al., 2026</a>)
 
-- tokenization and multilingual NLP (To what extent do tokenization choices account for cross-linguistic performance gaps in multilingual language models, and how can alternative tokenization strategies reduce these gaps?)
-
-- generalization of language models (To what extend can language models generalize from their training data?)
-
-- Cognitively inspired NLP, especially data-efficient learning: how can we build LMs that learn language as efficiently as humans?
-
-- inductive bias of language models and humans (What's the difference between human mind and language models? How can we make language models more human like by introducing such inductive bias?)
-
-- learnability of natural languages (what makes some languages harder to learn to machines?)
-
-- targeted evaluation of language models (What do language models know about natural language we speak?)
+I approach these questions through work on multilingual/monolingual/crosslingual language learning, tokenization, targeted evaluation, interpretability, and cognitively inspired NLP.
 
 When I'm not in front of the screen, you can find me bouldering/wall-climbing, reading (I'm a big fan of science fictions!), or swimming. 
 
-# 🔥 News
+# 📰 News
+
+<div class="news-scroll" markdown="1">
 - **06-2026** I'll visit Professor Jennifer Hu's glint lab at JHU this summer!
 
 - **05-2026** Defended my proposal! I'm officially ABD yayyyyyy! 🥳🥳🥳
@@ -51,41 +46,6 @@ When I'm not in front of the screen, you can find me bouldering/wall-climbing, r
 - **05-2025** Our paper *Anything Goes? A Crosslinguistic Study of (Im)possible Language Learning in LMs* was accepted to ACL2025 main conference! Feel free to check it out. :)
 
 - **04-2025** I gave a talk on impossible language learning at Learning and Development Lab, Georgetown University! 
+</div>
 
-
-
-# 📝 Publications & Presentations 
-- Min, J., **Yang, X.**, & Wein, S. (2025). When Does Meaning Backfire? Investigating the Role of AMRs in NLI. Under review
-- **Yang, X.**, Ju, Z., Bu, L., Liu, Z., & Schneider, N. (2025). UD-English-CHILDES: A Collected Resource of Gold and Silver Universal Dependencies Trees for Child Language Interactions. Proceedings of the Workshop on Universal Dependencies (UDW) at the 2025 Syntax Fest.
-- **Yang, X.**, Aoyama, T., Yao, Y., Wilcox, E. (2025). Anything Goes? A Crosslinguistic Study of (Im)possible Language Learning in LMs. In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025, main long).
-- **Yang, X.** (2025) Language Models at the Syntax-Semantics Interface: A Case Study of the Long-
-Distance Binding of Chinese Reflexive ziji. Proceedings of the 31st International Conference on
-Computational Linguistics.
-- **Yang, X.**, Groschwitz, J., Koller, A., & Bos, J. (2024). Scope-enhanced Compositional Semantic Parsing for DRT. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing.
-- **Yang, X.**, & Schneider, N. (2024). Are AMR Parsers Fooled by Relative Clauses? In Proceedings of the
-Fifth International Workshop on Designing Meaning Representations (2024).
-- Otto, C., Groschwitz, J., Koller, A., **Yang, X.**, & Donatelli, L. (2024). A corpus of German Abstract Meaning Representation (DeAMR). In Proceedings of the Thirteenth Language Resources and Evaluation Conference (2024).
-- **Yang, X.**, Chen, J., van Eerden, A., Samin, A., & Bisazza, A. (2023). Slaapte or sliep? Extending neural- network simulations of English past tense learning to German and Dutch. In Proceedings of the 24th Nordic Conference of Computational Linguistics (NODALIDA 2023).
-- **Yang, X.** (2022, July). The Ambiguous Binding of the Chinese Reflexive ziji: a Unified LFG Analysis [Poster presentation]. In Proceedings of the LFG’22 Conference, Groningen, the Netherlands. 
-- **Yang, X.** (2022, June). Was Europeanization of Chinese Intensified from 1946 to 2003? [Poster Presentation]. LOT Summer School, Groningen, the Netherlands.
-
-# 🎖 Honors and Awards
-- *2025* Outstanding Reviewer for EMNLP 2025.
-- *08.2023,2024,2025* Merit-Based Graduate School Scholarship, Georgetown University.
-- *07.2022* George Wolf Prize, The University of Oxford.
-- *04.2021* Erasmus Mundus Language and Communication Program Scholarship, University of Groningen & Saarland University.
-- *07.2020* Outstanding Graduate of Shandong University.
-- *2018-2019* Scholarship for Outstanding Students of Shandong University (2017,2018,2019).
-- *2018-2019* Merit Student of School of Foreign Languages Shandong University (2017,2018,2019).
-- *09.2018* Shandong Radio & TV Station Scholarship, Shandong University.
-- *09.2018* Overseas Study Scholarship, Shandong University.
-
-# 📖 Educations
-- *08.2023 - present* Georgetown University, PhD in Computational Linguistics. 
-- *09.2021 - 11.2023* The University of Groningen and Saarland University, Joint Master in Language and Communication Technologies.
-- *10.2020 - 07.2021* University of Oxford, Master in Linguistics, Philology and Phonetics.
-- *09.2016 - 07.2020* Shandong University, BA in English.
-
-# CV
-You can find my CV <a href = 'https://drive.google.com/file/d/1BzRoihSYTMqXGSVEFVEBYpnac7oAKzil/view?usp=sharing' target = '_top'> here</a>.
-
+<p class="news-last-updated">Last updated: August 2026</p>
