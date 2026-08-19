@@ -22,7 +22,7 @@ Before that, I have been lucky to work with <a href = 'https://www.jyfindlay.com
 
 I am broadly interested in how language is learned and generalized by humans and machines. Specifically, my research explores three related questions:
 
-- What makes language learnable, and are some languages harder for machines to learn than others? (<a href="https://aclanthology.org/2026.acl-long.728/" target="_top">Yang et al., 2026</a>; <a href="https://aclanthology.org/2025.acl-long.1264/" target="_top">Yang et al., 2025</a>)
+- What makes language learnable? Are some languages harder for machines to learn than others, and if so, what causes these differences? How can we bridge these gaps across languages? (<a href="https://aclanthology.org/2026.acl-long.728/" target="_top">Yang et al., 2026</a>; <a href="https://aclanthology.org/2025.acl-long.1264/" target="_top">Yang et al., 2025</a>)
 - Whether and how do language models generalize beyond their training experience? (<a href="https://aclanthology.org/2025.coling-main.257/" target="_top">Yang, 2025</a>; <a href="https://aclanthology.org/2023.nodalida-1.11/" target="_top">Yang et al., 2023</a>)
 - What inductive biases enable humans to learn language efficiently, and can these biases improve language models? (<a href="https://arxiv.org/abs/2602.09992" target="_top">Yang et al., 2026</a>)
 
