@@ -33,6 +33,8 @@ When I'm not in front of the screen, you can find me bouldering/wall-climbing, r
 # 📰 News
 
 <div class="news-scroll" markdown="1">
+- **08-2026** New paper on crosslingual LM evaluation is accepted to EMNLP 2026! 🎉 
+
 - **06-2026** I'll visit Professor Jennifer Hu's glint lab at JHU this summer!
 
 - **05-2026** Defended my proposal! I'm officially ABD yayyyyyy! 🥳🥳🥳
